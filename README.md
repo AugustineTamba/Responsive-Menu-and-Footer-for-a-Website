@@ -2,9 +2,11 @@ Responsive Menu and Footer
 This is a simple responsive webpage that showcases a navigation menu and footer section.
 
 Features
+
 Responsive design that adjusts to different screen sizes
 Navigation menu that expands and collapses on small screens
 Footer section with social media links and contact information
+
 Technologies Used
 HTML5
 CSS3
@@ -22,4 +24,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 License
-Free
+MIT
