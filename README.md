@@ -1,3 +1,4 @@
+![play](https://github.com/AugustineTamba/Responsive-Menu-and-Footer-for-a-Website/assets/51299834/7ef0f4bb-23fd-483b-8de4-7040e1d0e1e3)
 Responsive Menu and Footer
 
 This is a simple responsive webpage that showcases a navigation menu and footer section.
